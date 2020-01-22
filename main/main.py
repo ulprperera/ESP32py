@@ -1,4 +1,4 @@
- from ota_update.main.ota_updater import OTAUpdater
+	from ota_update.main.ota_updater import OTAUpdater
 
 
     def download_and_install_update_if_available():
@@ -11,7 +11,7 @@
         # from main.x import YourProject
         # project = YourProject()
         # ...		
-		print ("ESP32 PICO Core says Hello!!!")
+		print ("ESP32 PICO Core says Hello Roshan")
 
 
     def boot():
